@@ -24,9 +24,13 @@ This project involves:
 This repository also includes a comprehensive collection of SQL queries designed for:
 
 -Database exploration and profiling
+
 -Key metrics and performance measures
+
 -Time-based and cumulative analytics
+
 -Segmentation and cohort analysis
+
 -Star schema-based query patterns
 
 These scripts demonstrate best practices and are helpful for analysts and BI engineers working with structured data.
